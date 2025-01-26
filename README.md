@@ -5,7 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/emily-baird-69314625/
 
 
-![large-1](https://user-images.githubusercontent.com/74742934/172874383-5cd97e02-4e09-49b7-a909-3a27d46999a2.svg)
+![large-1](https://www.codewars.com/users/em3B/badges/large)
 
 <!---
 em3B/em3B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
