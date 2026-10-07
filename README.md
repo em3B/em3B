@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @em3B
-- 👀 I’m interested in developing as a software engineer
-- 🌱 I’m currently learning reactive Java, Python3, JavaScript, CSS, HTML, Ruby, React
-- 💞️ I’m looking to collaborate on back end development 
-- 📫 How to reach me https://www.linkedin.com/in/emily-lord-69314625/
+👋 Hi, I’m Emily
+💻 Backend software engineer based in London
+☕ Primarily working with Java, Spring and distributed systems
+🚀 Interested in scalable systems, performance engineering and applied AI
+🛠️ Currently building an AI-assisted co-parenting communication platform in Java/Spring
+📫 Connect with me on LinkedIn
 
 
 ![large-1](https://www.codewars.com/users/em3B/badges/large)
